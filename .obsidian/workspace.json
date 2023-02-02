@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d29c8f2f84b8166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian 範例.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Flow/Git Flow 筆記：.md",
+                "file": "Obsidian 範例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Flow/Git Flow 筆記：.md",
+                "file": "Obsidian 範例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Flow/Git Flow 筆記：.md"
+                "file": "Obsidian 範例.md"
               }
             }
           }
@@ -171,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071f7430591dbb24",
+  "active": "4d29c8f2f84b8166",
   "lastOpenFiles": [
-    "Untitled.md",
     "Git Flow/Git Flow 筆記：.md",
+    "Obsidian 範例.md",
     "測試 Obsidian 筆記軟體.md",
     "README.md"
   ]
